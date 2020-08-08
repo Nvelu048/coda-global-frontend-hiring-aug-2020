@@ -1,15 +1,15 @@
-# full-stack-app-template
+# Coda Global Front end Hiring Challenge
 
-Template for bootstrapping full stack app quickly thereby reducing environment up time and focus on app
+Front end hiring challenge for Coda Global conducted by HackerEarth
 
 ## Overview
 
-This repo was created in order to reduce environment up time. Especially during online Hackathons.
+This hiring challenge is for Chennai and Combatore Location
 
 ## Tech Stack
 
 Front End: React \
- Back End: NodeJS & DB of your choice
+Back End: NodeJS & DB of your choice
 
 ## Features
 
@@ -30,7 +30,3 @@ npm run build
 ```javascript
 npm run archive
 ```
-
-## Note
-
-    User should replace origin before implementing their logic
